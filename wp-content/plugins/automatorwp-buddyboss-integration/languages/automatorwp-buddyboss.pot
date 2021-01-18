@@ -1,0 +1,261 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AutomatorWP - BuddyBoss\n"
+"Report-Msgid-Bugs-To: https://automatorwp.com/\n"
+"POT-Creation-Date: 2020-11-05 13:12+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://automatorwp.com/)\n"
+"Language-Team: GamiPress <contact@automatorwp.com>\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: automatorwp-buddyboss.php:156
+#, php-format
+msgid "AutomatorWP - BuddyBoss requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: automatorwp-buddyboss.php:169
+msgid "You can uninstall AutomatorWP - BuddyBoss Integration because you already have the pro version installed and includes all the features of the free version."
+msgstr ""
+
+#: includes/actions/add-user-activity.php:26
+msgid "Add an activity to the user"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:27
+msgid "Add an <strong>activity</strong> to the user"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:29
+#: includes/actions/add-user-activity.php:31
+#, php-format
+msgid "Add an %1$s to the user"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:34
+msgid "activity"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:38
+msgid "Action:"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:39
+msgid "Activity's action."
+msgstr ""
+
+#: includes/actions/add-user-activity.php:44
+msgid "Content:"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:45
+msgid "Activity's content."
+msgstr ""
+
+#: includes/actions/add-user-activity.php:50
+msgid "Link:"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:51
+msgid "URL link associated to the activity."
+msgstr ""
+
+#: includes/actions/add-user-activity.php:56
+msgid "Hide on the sitewide activity stream:"
+msgstr ""
+
+#: includes/actions/add-user-activity.php:57
+msgid "Check this option to hide this activity from the sitewide activity stream."
+msgstr ""
+
+#: includes/actions/set-user-member-type.php:26
+msgid "Set user profile type"
+msgstr ""
+
+#: includes/actions/set-user-member-type.php:27
+msgid "Set user <strong>profile type</strong>"
+msgstr ""
+
+#: includes/actions/set-user-member-type.php:29
+#: includes/actions/set-user-member-type.php:31
+#, php-format
+msgid "Set user the profile type %1$s"
+msgstr ""
+
+#: includes/actions/set-user-member-type.php:35
+#: includes/actions/set-user-member-type.php:43
+msgid "choose a profile type"
+msgstr ""
+
+#: includes/actions/set-user-member-type.php:38
+msgid "Profile Type:"
+msgstr ""
+
+#: includes/functions.php:25 includes/triggers/join-group.php:41
+msgid "any group"
+msgstr ""
+
+#: includes/triggers/account-activation.php:26
+#: includes/triggers/account-activation.php:28
+#: includes/triggers/account-activation.php:29
+msgid "User account gets activated"
+msgstr ""
+
+#: includes/triggers/account-activation.php:27
+msgid "User account <strong>gets activated</strong>"
+msgstr ""
+
+#: includes/triggers/create-forum.php:26 includes/triggers/create-forum.php:30
+msgid "User creates a forum"
+msgstr ""
+
+#: includes/triggers/create-forum.php:27
+msgid "User creates <strong>a forum</strong>"
+msgstr ""
+
+#: includes/triggers/create-forum.php:29
+#, php-format
+msgid "User creates a forum %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/create-topic.php:26
+msgid "User creates a topic"
+msgstr ""
+
+#: includes/triggers/create-topic.php:27
+msgid "User creates <strong>a topic</strong>"
+msgstr ""
+
+#: includes/triggers/create-topic.php:29
+#, php-format
+msgid "User creates a topic in %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/create-topic.php:31
+#, php-format
+msgid "User creates a topic in %1$s"
+msgstr ""
+
+#: includes/triggers/create-topic.php:41
+msgid "Forum:"
+msgstr ""
+
+#: includes/triggers/create-topic.php:42
+msgid "any forum"
+msgstr ""
+
+#: includes/triggers/join-group.php:26
+msgid "User joins a group"
+msgstr ""
+
+#: includes/triggers/join-group.php:27
+msgid "User <strong>joins</strong> a group"
+msgstr ""
+
+#: includes/triggers/join-group.php:29
+#, php-format
+msgid "User joins %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/join-group.php:31
+#, php-format
+msgid "User joins %1$s"
+msgstr ""
+
+#: includes/triggers/join-group.php:39
+msgid "Group:"
+msgstr ""
+
+#: includes/triggers/publish-activity.php:26
+#: includes/triggers/publish-activity.php:30
+msgid "User writes an activity stream message"
+msgstr ""
+
+#: includes/triggers/publish-activity.php:27
+msgid "User <strong>writes</strong> an activity stream message"
+msgstr ""
+
+#: includes/triggers/publish-activity.php:29
+#, php-format
+msgid "User writes an activity stream message %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/send-email-invite.php:26
+#: includes/triggers/send-email-invite.php:30
+msgid "User sends an email invite"
+msgstr ""
+
+#: includes/triggers/send-email-invite.php:27
+msgid "User sends an <strong>email invite</strong>"
+msgstr ""
+
+#: includes/triggers/send-email-invite.php:29
+#, php-format
+msgid "User sends an email invite %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/start-following.php:26
+#: includes/triggers/start-following.php:30
+msgid "User starts following someone"
+msgstr ""
+
+#: includes/triggers/start-following.php:27
+msgid "User <strong>starts following</strong> someone"
+msgstr ""
+
+#: includes/triggers/start-following.php:29
+#, php-format
+msgid "User starts following someone %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/update-avatar.php:26
+#: includes/triggers/update-avatar.php:30
+msgid "User updates avatar"
+msgstr ""
+
+#: includes/triggers/update-avatar.php:27
+msgid "User updates <strong>avatar</strong>"
+msgstr ""
+
+#: includes/triggers/update-avatar.php:29
+#, php-format
+msgid "User updates avatar %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/update-cover.php:26 includes/triggers/update-cover.php:30
+msgid "User updates cover image"
+msgstr ""
+
+#: includes/triggers/update-cover.php:27
+msgid "User updates <strong>cover image</strong>"
+msgstr ""
+
+#: includes/triggers/update-cover.php:29
+#, php-format
+msgid "User updates cover image %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/update-profile.php:26
+#: includes/triggers/update-profile.php:30
+msgid "User updates profile information"
+msgstr ""
+
+#: includes/triggers/update-profile.php:27
+msgid "User updates <strong>profile information</strong>"
+msgstr ""
+
+#: includes/triggers/update-profile.php:29
+#, php-format
+msgid "User updates profile information %1$s time(s)"
+msgstr ""

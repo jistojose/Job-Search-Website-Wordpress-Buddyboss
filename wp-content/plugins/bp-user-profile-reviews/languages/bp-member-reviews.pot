@@ -1,0 +1,1044 @@
+# Copyright (C) 2020
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-16 04:44:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Varun Dubey\n"
+"Language-Team: Wbcom Designs\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/bupr-admin.php:81
+msgid "WB Plugins"
+msgstr ""
+
+#: admin/bupr-admin.php:82 admin/bupr-admin.php:95
+msgid "General"
+msgstr ""
+
+#: admin/bupr-admin.php:84
+msgid "Admin Settings For Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:84
+msgid "User Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:98
+msgid "Criteria"
+msgstr ""
+
+#: admin/bupr-admin.php:101
+msgid "Shortcode"
+msgstr ""
+
+#: admin/bupr-admin.php:103
+msgid "Display"
+msgstr ""
+
+#: admin/bupr-admin.php:138
+msgid "BuddyPress Member Reviews Settings"
+msgstr ""
+
+#: admin/bupr-admin.php:179 admin/bupr-admin.php:181 admin/bupr-admin.php:182
+#: admin/tab-templates/bupr-setting-general-tab.php:133
+#: includes/class-buprglobals.php:148 includes/class-buprglobals.php:155
+msgid "Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:180 admin/tab-templates/bupr-setting-display-tab.php:31
+#: includes/class-buprglobals.php:145 includes/class-buprglobals.php:154
+msgid "Review"
+msgstr ""
+
+#: admin/bupr-admin.php:183 admin/bupr-admin.php:184
+msgid "Add New Review"
+msgstr ""
+
+#: admin/bupr-admin.php:185
+msgid "New Review"
+msgstr ""
+
+#: admin/bupr-admin.php:186
+msgid "View Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:187
+msgid "All Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:188
+msgid "Search Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:189
+msgid "Parent Review:"
+msgstr ""
+
+#: admin/bupr-admin.php:190
+msgid "No Review Found"
+msgstr ""
+
+#: admin/bupr-admin.php:191
+msgid "No Review Found In Trash"
+msgstr ""
+
+#: admin/bupr-admin.php:285
+msgid "Search Categories"
+msgstr ""
+
+#: admin/bupr-admin.php:286
+msgid "All Categories"
+msgstr ""
+
+#: admin/bupr-admin.php:287
+msgid "Parent Category"
+msgstr ""
+
+#: admin/bupr-admin.php:288
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/bupr-admin.php:289
+msgid "Edit Category"
+msgstr ""
+
+#: admin/bupr-admin.php:290
+msgid "Update Category"
+msgstr ""
+
+#: admin/bupr-admin.php:291
+msgid "Add Category"
+msgstr ""
+
+#: admin/bupr-admin.php:292
+msgid "New Category Name"
+msgstr ""
+
+#: admin/bupr-admin.php:293
+msgid "Category"
+msgstr ""
+
+#: admin/tab-templates/bupr-member-types-criteria-tab.php:17
+msgid "All Criterias"
+msgstr ""
+
+#: admin/tab-templates/bupr-member-types-criteria-tab.php:34
+msgid "Set review criteria according to member types"
+msgstr ""
+
+#: admin/tab-templates/bupr-member-types-criteria-tab.php:54
+msgid "Select criterias"
+msgstr ""
+
+#: admin/tab-templates/bupr-member-types-criteria-tab.php:65
+msgid "Only selected criteria will be available for respective member types."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:26
+msgid "Review Criteria(s)"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:32
+msgid "Allow Multiple Criteria(s)?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:39
+msgid ""
+"Enable this option,if you want to allow members to be rated by "
+"'Criteria(s)'."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:63
+msgid "Remove criteria fields permanently."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:71
+msgid "Enable/Disable criteria fields from review form."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:83
+msgid ""
+"This option will allow you to add multiple rating criteria. By default, no "
+"citeria will be shown until you activate it."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:21
+msgid "Note"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:22
+msgid "If and only if you have added a criteria for review."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:25
+msgid "Labels"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:36
+msgid "Change Labels from BuddyPress tab and review form."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:42
+msgid "Review( Plural )"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:47
+msgid "This option provides flexibility to change plural of Review."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:54
+msgid "Colors "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:60
+msgid "Rating color"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:65
+msgid "This option lets you to change star rating color."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:30
+msgid "Multiple Reviews"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:38
+msgid ""
+"Enable this option, if you want to add functionality for a user to send "
+"multiple reviews to same user."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:44
+msgid "Hide Review Button"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:52
+msgid "Enable this option if you want to show Add Review button on member profile."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:58
+msgid "Auto approve reviews "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:66
+msgid ""
+"Enable this option, if you want to have the reviews automatically approved, "
+"else manual approval will be required."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:72
+msgid "Show ratings in member directory"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:80
+msgid "Enable this option, if you want to show ratings at member directory page."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:100
+msgid "Emails "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:108
+msgid ""
+"Enable this option, if you want that member to receive an email when "
+"someone adds review in their profile."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:114
+msgid "BuddyPress Notifications"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:122
+msgid ""
+"Enable this option, if you want the member to receive a BuddyPress "
+"Notification when someone adds a review in their profile."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:128
+msgid "Reviews pages show at most"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:134
+msgid "This option lets you limit number of reviews in Member Reviews page."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:140
+msgid "Select member roles to write reviews"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:168
+msgid "Select user roles which have only right to give review."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:174
+msgid "User roles to accept reviews"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:202
+msgid "Select user roles which have you want to give review."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:208
+msgid "Enable anonymous reviews"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:216
+msgid "Enable this option if you want users to review members anonymously."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:18
+msgid "Reviews Shortcode "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:33
+msgid "This shortcode will display BP member review form."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:45
+msgid "This shortcode will display Top rated/reviewed members."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:47
+msgid "Parameters:"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:49
+msgid ""
+"Using this parameter, you can add a title before top rated/reviewed members "
+"listing. For example: "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:50
+msgid ""
+"This parameter lets you limit the number of reviews on the Top "
+"Rated/Reviewed Members listing page. For example: "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:51
+msgid ""
+"Using this parameter you can display members according to 'top reviewed' or "
+"'top rated'. For example: "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:52
+msgid ""
+"This parameter gives you flexibility to 'show' or 'hide' member avatar in "
+"the listing. For example: "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:15
+msgid "FAQ(s) "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:24
+msgid "How can we submit the review to a member profile by using this plugin?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:28
+msgid ""
+"When visiting the \"/members\" section in the site, go for single profile "
+"view page, there you can see a menu namely, \"Reviews\" which will allow "
+"you to add a profile review only if you are a member."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:36
+msgid "How can we add more rating criteria for review form ?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:40
+msgid ""
+"Just go to \"Dashboard->Review->BP member review setting page\" and click "
+"add criteria button to add more fields and click save setting button to "
+"update review settings."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:48
+msgid "What is the Top Members widget and how to use it ?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:52
+msgid ""
+"Members Review widgets display list of members on site front-end . When you "
+"successfully activate BP Member profile review plugin, then you can see "
+"Members review widget in the widget section."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:60
+msgid "Can I use the review form on any other page?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:63
+msgid ""
+"Yes you can use the review form on other page, just copy shortcode from "
+"review setting page and paste it on the other page."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:70
+msgid ""
+"What to do if I unable/fail to publish shortcode page after update to "
+"WordPress 5.0?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:73
+msgid ""
+"Install the Classic Editor plugin. Then, in the right sidebar, you’ll see a "
+"link for “use classic editor”."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:80
+msgid "Where do I ask for support?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:83
+msgid "Please visit %1$s for any query related to plugin and BuddyPress."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:3
+msgid "Plugin License Settings"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:8
+#: admin/wbcom/templates/wbcom-license-page.php:21
+msgid "Product"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:9
+#: admin/wbcom/templates/wbcom-license-page.php:22
+msgid "Version"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:10
+#: admin/wbcom/templates/wbcom-license-page.php:23
+msgid "Key"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:11
+#: admin/wbcom/templates/wbcom-license-page.php:24
+msgid "Status"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:12
+#: admin/wbcom/templates/wbcom-license-page.php:25
+msgid "Action"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:8
+msgid "Free Addons"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:14
+msgid "Install"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:18
+#: admin/wbcom/wbcom-admin-settings.php:362
+msgid "Activate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:22
+#: admin/wbcom/wbcom-admin-settings.php:363
+msgid "Deactivate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:50
+msgid "Paid Addons"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:67
+#: includes/bupr-filters.php:643
+msgid "View"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:3
+#: admin/wbcom/wbcom-admin-settings.php:390
+#: admin/wbcom/wbcom-admin-settings.php:475
+msgid "Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:5
+msgid "Having any question or issue ?"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:7
+msgid ""
+"Our team is here to help you out at anytime. If you have any idea about how "
+"we could improve. You can share access to your site on our helpdesk if it "
+"can help getting faster. There are two ways to in touch with us :"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:19
+msgid "Tickets Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:20
+msgid ""
+"Open a ticket on our helpdesk, we don't guarantee a fast response but "
+"within a week. Except if you've purchased one of our product we'll reply "
+"within 24 hours."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:24
+msgid "Open a ticket"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:39
+#: admin/wbcom/templates/wbcom-support-page.php:44
+msgid "Contact Us"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:40
+msgid ""
+"Create a new thread on our plugin page, participation is open to anyone "
+"from all around the world. We'll be there to help as well but can't "
+"guarantee any delay."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:4
+msgid "Reign BuddyPress"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:12
+msgid "REIGN Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:14
+msgid "Multiple Member Directory Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:15
+msgid "Multiple Member Header Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:16
+msgid "Multiple Group Directory Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:17
+msgid "Multiple Group Header Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:18
+msgid "BuddyPress Customization Options"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:19
+msgid "BuddyPress Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:20
+msgid "Inbuilt Social Profile Module"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:23
+#: admin/wbcom/templates/wbcom-themes-page.php:49
+#: admin/wbcom/templates/wbcom-themes-page.php:73
+#: admin/wbcom/templates/wbcom-themes-page.php:98
+msgid "Purchase"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:24
+#: admin/wbcom/templates/wbcom-themes-page.php:50
+#: admin/wbcom/templates/wbcom-themes-page.php:74
+#: admin/wbcom/templates/wbcom-themes-page.php:99
+msgid "Preview"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:30
+msgid "LearnMate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:38
+msgid "LearnMate Solution"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:40
+msgid "Add Review to your course"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:41
+msgid "Course Coming Soon"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:42
+#: admin/wbcom/templates/wbcom-themes-page.php:69
+msgid "Grid And List Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:43
+msgid "Learndash/LifterLMS Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:44
+msgid "Unparalleled Course Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:45
+msgid "Awesome Learndash/LifterLMS Pages"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:46
+msgid "Distraction Free Reading"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:56
+msgid "StoreMate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:64
+msgid "StoreMate Solution"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:66
+msgid "Dokan Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:67
+msgid "Unique Single Product Page Customization"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:68
+msgid "Awesome WooCommerce Pages"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:70
+msgid "Automated Mega Menu Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:80
+msgid "BuddyX"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:88
+msgid "BuddyX Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:90
+msgid "Responsive BuddyPress Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:91
+msgid "Site Ready In One-Click"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:92
+msgid "Members and Groups Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:93
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:94
+msgid "Supported Muitiple Plugins"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:95
+msgid "Suitable for All Devices"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:179
+msgid "Custom Font Uploader"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:181
+msgid ""
+"It also allows you to upload your own custom font to your site and use them "
+"using custom css."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:187
+msgid "BuddyPress Create Group Type"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:189
+msgid "It will help to create group type for BuddyPress Groups."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:195 buddypress-member-review.php:90
+#: buddypress-member-review.php:149
+msgid "BuddyPress Member Reviews"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:197
+msgid ""
+"This plugin allows only site members to add reviews to the buddypress "
+"members on the site and even rate the member’s profile out of 5 points with "
+"multiple review criteria."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:203
+msgid "BuddyPress Group Reviews"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:205
+msgid ""
+"This plugin allows the BuddyPress Members to give reviews to the BuddyPress "
+"groups on the site. The review form allows the users to give text review, "
+"even rate the group on the basis of multiple criterias."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:223
+msgid "BuddyPress Moderation Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:224
+msgid ""
+"BuddyPress Community Moderation offers a solution for site owners to keep "
+"their communities straight. With community policing strategy, members of "
+"the community have an option for moderation sitewide by attaching flags to "
+"content created within the various components."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:229
+msgid "BuddyPress Polls"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:230
+msgid ""
+"Use BuddyPress Polls plugin to create polls inside the activity, let your "
+"user response to your polls. Members can create pools like activities, "
+"easily votes on them."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:235
+msgid "BuddyPress Hashtags"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:236
+msgid ""
+"Allows members to use hashtags in BuddyPress activities and bbPress topics "
+"and ready with widgets."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:241
+msgid "BuddyPress Profanity"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:242
+msgid ""
+"Use BuddyPress Profanity plugin to censor content in your community! Easily "
+"Censor all the unwanted words in activities, private messages contents by "
+"specifying a list of keywords to be filtered."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:247
+msgid "BuddyPress Private Community Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:248
+msgid ""
+"This plugin offers a lockdown for BuddyPress Component and will ask users "
+"to log in go further to check profile or any other protected details."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:253
+msgid "BuddyPress Profile Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:254
+msgid ""
+"This plugin gives you the power to extend BuddyPress Profiles with repeater "
+"fields and groups. You can easily add multiple field groups and display "
+"them at member’s profile."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:259
+msgid "BuddyPress Sticky Post"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:260
+msgid ""
+"This will make it easier for the site administrator to make the pinned "
+"activity item recognized first by the community whenever they visit the "
+"site."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:265
+msgid "BuddyPress Auto Friends"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:266
+msgid ""
+"Allow the site admin to select global friends for all his members with "
+"BuddyPress Auto friends plugin."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:271
+msgid "BuddyPress Quotes"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:272
+msgid ""
+"BuddyPress quotes plugin comes with the feature to let users post their "
+"activity updates with interactive backgrounds selection such as colors and "
+"images set by the site administrator, so they can tell a more expressive "
+"story."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:384
+#: admin/wbcom/wbcom-admin-settings.php:463
+msgid "Components"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:387
+#: admin/wbcom/wbcom-admin-settings.php:469
+msgid "Themes"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:457 buddypress-member-review.php:124
+msgid "Settings"
+msgstr ""
+
+#: buddypress-member-review.php:91 buddypress-member-review.php:150
+msgid "BuddyPress"
+msgstr ""
+
+#: buddypress-member-review.php:93
+msgid "%1$s is ineffective now as it requires %2$s to function correctly."
+msgstr ""
+
+#: buddypress-member-review.php:152
+msgid "%1$s is ineffective now as it requires %2$s to be installed and active."
+msgstr ""
+
+#: includes/bupr-ajax.php:187
+#: includes/templates/bupr-reviews-tab-template.php:104
+#: includes/templates/bupr-single-review-template.php:43
+msgid "anonymous"
+msgstr ""
+
+#: includes/bupr-ajax.php:228
+#: includes/templates/bupr-reviews-tab-template.php:168
+msgid "read more..."
+msgstr ""
+
+#: includes/bupr-ajax.php:288
+#: includes/templates/bupr-reviews-tab-template.php:244
+msgid "Sorry, no %1$s were found."
+msgstr ""
+
+#: includes/bupr-ajax.php:414 includes/bupr-shortcodes.php:232
+#: includes/widgets/display-review.php:217
+#: includes/widgets/member-rating.php:199
+msgid "Rating : ( %1$s )"
+msgstr ""
+
+#: includes/bupr-ajax.php:423 includes/widgets/member-rating.php:208
+msgid "No member has been rated yet."
+msgstr ""
+
+#: includes/bupr-ajax.php:579
+msgid "Welcome ! %s You have a new review on your profile."
+msgstr ""
+
+#: includes/bupr-ajax.php:580
+msgid "To read your review click on the link given below."
+msgstr ""
+
+#: includes/bupr-ajax.php:589
+msgid ""
+"Thank you for taking the time to write this %1$s. Your %1$s will display on "
+"member profile after moderator approval."
+msgstr ""
+
+#: includes/bupr-ajax.php:591
+msgid "Thank you for taking the time to write this %1$s!"
+msgstr ""
+
+#: includes/bupr-ajax.php:595
+msgid "Please try again!"
+msgstr ""
+
+#: includes/bupr-ajax.php:610
+msgid "Please select a member."
+msgstr ""
+
+#: includes/bupr-ajax.php:614
+msgid "You already posted a %1$s for this member."
+msgstr ""
+
+#: includes/bupr-filters.php:82
+msgid "Member Response"
+msgstr ""
+
+#: includes/bupr-filters.php:83
+msgid "Member Skills"
+msgstr ""
+
+#: includes/bupr-filters.php:254 includes/bupr-filters.php:275
+#: includes/bupr-filters.php:318 includes/bupr-filters.php:339
+msgid "Add %s"
+msgstr ""
+
+#: includes/bupr-filters.php:513
+msgid "Rating "
+msgstr ""
+
+#: includes/bupr-filters.php:562
+msgid "View %s"
+msgstr ""
+
+#: includes/bupr-filters.php:566
+msgid "Approve"
+msgstr ""
+
+#: includes/bupr-filters.php:662 includes/bupr-filters.php:675
+#: includes/bupr-filters.php:699 includes/bupr-filters.php:713
+msgid "Add %1$s"
+msgstr ""
+
+#: includes/bupr-filters.php:784
+msgid "You must login!"
+msgstr ""
+
+#: includes/bupr-notification.php:63
+msgid "A new %s posted."
+msgstr ""
+
+#: includes/bupr-notification.php:64
+msgid "%1$s posted a %2$s."
+msgstr ""
+
+#: includes/bupr-scripts.php:103
+msgid "Already Installed & Activated"
+msgstr ""
+
+#: includes/bupr-scripts.php:104
+msgid "There was a problem performing the action."
+msgstr ""
+
+#: includes/bupr-shortcodes.php:234 includes/widgets/display-review.php:219
+msgid "Total %1$s : %2$s"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:242 includes/widgets/display-review.php:227
+msgid "No member has been reviewed yet."
+msgstr ""
+
+#: includes/bupr-shortcodes.php:346
+msgid "You already posted a %s for this member."
+msgstr ""
+
+#: includes/bupr-shortcodes.php:388
+msgid "Fill in details to submit %s"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:394
+msgid "--Select--"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:403 includes/bupr-shortcodes.php:408
+#: includes/bupr-shortcodes.php:410 includes/bupr-shortcodes.php:434
+msgid "This field is required."
+msgstr ""
+
+#: includes/bupr-shortcodes.php:408
+msgid "Review Subject"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:410
+msgid "%s Description"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:448
+msgid "Send %s anonymously."
+msgstr ""
+
+#: includes/bupr-shortcodes.php:454
+msgid "Submit %s"
+msgstr ""
+
+#: includes/templates/bupr-reviews-tab-template.php:40
+#: includes/widgets/member-rating.php:135
+#: includes/widgets/member-rating.php:264
+msgid "Latest"
+msgstr ""
+
+#: includes/templates/bupr-reviews-tab-template.php:41
+#: includes/widgets/member-rating.php:140
+#: includes/widgets/member-rating.php:265
+msgid "Highest"
+msgstr ""
+
+#: includes/templates/bupr-reviews-tab-template.php:42
+#: includes/widgets/member-rating.php:145
+#: includes/widgets/member-rating.php:266
+msgid "Lowest"
+msgstr ""
+
+#: includes/widgets/display-review.php:14
+msgid "Display members list according to members reviews."
+msgstr ""
+
+#: includes/widgets/display-review.php:21
+msgid "BP Member Review Widget"
+msgstr ""
+
+#: includes/widgets/display-review.php:259
+msgid "Top Members"
+msgstr ""
+
+#: includes/widgets/display-review.php:272
+#: includes/widgets/member-rating.php:254
+msgid "Enter Title"
+msgstr ""
+
+#: includes/widgets/display-review.php:276
+#: includes/widgets/member-rating.php:258
+msgid "Display Members"
+msgstr ""
+
+#: includes/widgets/display-review.php:283
+msgid "Top Rated "
+msgstr ""
+
+#: includes/widgets/display-review.php:288
+msgid "Most Reviewed"
+msgstr ""
+
+#: includes/widgets/display-review.php:296
+msgid "Display Avatar "
+msgstr ""
+
+#: includes/widgets/member-rating.php:14
+msgid "Display displayed member ratings."
+msgstr ""
+
+#: includes/widgets/member-rating.php:21
+msgid "BP Displayed Member Rating Widget"
+msgstr ""
+
+#: includes/widgets/member-rating.php:45
+msgid "%s's Ratings"
+msgstr ""
+
+#: includes/widgets/member-rating.php:262
+msgid "Default ratings to show:"
+msgstr ""
+
+#: admin/bupr-admin.php:283
+msgctxt "taxonomy general name"
+msgid "Reviews Category"
+msgstr ""
+
+#: admin/bupr-admin.php:284
+msgctxt "taxonomy singular name"
+msgid "Review Category"
+msgstr ""
